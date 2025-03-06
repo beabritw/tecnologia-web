@@ -10,4 +10,8 @@ export default {
             },
         },
     },
+<<<<<<< HEAD
 };
+=======
+};
+>>>>>>> 5c8679da6574c2dc0078cfaf5b1be6df02c86639
