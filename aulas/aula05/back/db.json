@@ -1,0 +1,14 @@
+{
+  "tarefas": [
+    {
+      "id": "ia2b",
+      "nome": "Estudar API REST",
+      "concluida": false
+    },
+    {
+      "nome": "Praticar React Native",
+      "concluida": false,
+      "id": "3c4d"
+    }
+  ]
+}
